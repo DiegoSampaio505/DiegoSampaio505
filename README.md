@@ -10,3 +10,4 @@
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegosampaio505&show_icons=true&theme=synthwave&locale=en" alt="diegosampaio505" /></p> <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegosampaio505&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="diegosampaio505" /></p
+.
